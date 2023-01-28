@@ -1,0 +1,35 @@
+Version Info: ### PLEASE UPGRADE SALMON ###
+### A newer version of salmon with bug fixes is available. ####
+###
+The newest version, available at https://github.com/COMBINE-lab/salmon/releases
+contains new features, improvements, and bug fixes; please upgrade at your
+earliest convenience.
+###
+Sign up for the salmon mailing list to hear about new versions, features and updates at:
+https://oceangenomics.com/subscribe
+###
+index ["index"] did not previously exist  . . . creating it
+[2023-01-29 00:54:48.908] [jLog] [info] building index
+[2023-01-29 00:54:48.909] [jointLog] [info] [Step 1 of 4] : counting k-mers
+Elapsed time: 0.00597215s
+
+[2023-01-29 00:54:48.915] [jointLog] [info] Replaced 0 non-ATCG nucleotides
+[2023-01-29 00:54:48.915] [jointLog] [info] Clipped poly-A tails from 0 transcripts
+[2023-01-29 00:54:48.915] [jointLog] [info] Building rank-select dictionary and saving to disk
+[2023-01-29 00:54:48.915] [jointLog] [info] done
+Elapsed time: 8.0644e-05s
+[2023-01-29 00:54:48.915] [jointLog] [info] Writing sequence data to file . . . 
+[2023-01-29 00:54:48.915] [jointLog] [info] done
+Elapsed time: 0.000160209s
+[2023-01-29 00:54:48.915] [jointLog] [info] Building 32-bit suffix array (length of generalized text is 171,002)
+[2023-01-29 00:54:48.915] [jointLog] [info] Building suffix array . . . 
+success
+saving to disk . . . done
+Elapsed time: 0.00218643s
+done
+Elapsed time: 0.0414689s
+processed 0 positions[2023-01-29 00:54:49.060] [jointLog] [info] khash had 170,953 keys
+[2023-01-29 00:54:49.060] [jointLog] [info] saving hash to disk . . . 
+[2023-01-29 00:54:49.076] [jointLog] [info] done
+Elapsed time: 0.0159992s
+[2023-01-29 00:54:49.076] [jLog] [info] done building index
