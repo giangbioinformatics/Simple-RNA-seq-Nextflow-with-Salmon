@@ -1,7 +1,7 @@
 # Simple-Nextflow
 Simple Nextflow Pipeline
 Require your system has conda installed already
-#Step1: Install require packages
+## Step1: Install require packages
 Note: 
 + It is not recommended to use in production
 + Nextflow, java and tools in conda should be installed seperately
@@ -9,11 +9,11 @@ Note:
 ```
 conda env create -n demo -f env/environment.yml
 ```
-#Step2: Activate environment
+## Step2: Activate environment
 ```
 conda activate demo
 ```
-#Step3:
+## Step3:Run the script
 Run bash script
 ```
 bash rna_seq.sh
